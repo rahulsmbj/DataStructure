@@ -1,0 +1,9 @@
+.metadata/
+private/
+bin/
+*.jar
+*.class
+*.out
+*.o
+*.exe
+.idea/*

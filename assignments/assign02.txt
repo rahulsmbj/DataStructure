@@ -1,0 +1,5 @@
+Solve following problems.
+1. Implement binary search if array is sorted in descending order.
+2. Implement Fibonacci search. Reference: https://www.geeksforgeeks.org/fibonacci-search/
+3. Write a function to return number of comparisons for a bubble sort. Write another function to return number of swapping for bubble sort. Compare result for the same input array.
+4. Decimal to binary conversion recursive code prints binary equivalent in reverse order (as discussed in class). Modify it produce correct output.

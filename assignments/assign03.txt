@@ -1,0 +1,10 @@
+Solve following problems.
+1. Input an infix expression from user and solve it. Expression have multi-digit operands and operators separated by spaces.
+2. Simulate FCFS scheduling algorithm. Consider following input and calculate turn-around time for each process. Turn-around time is completion time - arrival time.
+	Process		Arrival		Time
+		P1			0		23
+		P2			6		4
+		P3			8		5
+		P4			9		12
+3. Paper-work infix to prefix and prefix evaluation. (Refer slides).
+4. Paper-work prefix to postfix and postfix evaluation. (Refer slides).

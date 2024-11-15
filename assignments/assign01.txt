@@ -1,0 +1,8 @@
+Solve following problems using recursion.
+1. Factorial of a given number.
+2. Power (x ^ y).
+3. nth term of Fibonacci series.
+4. Prime factors of a given number.
+5. Decimal to Binary conversion.
+6. Print numbers 1 to 10 using recursion.
+7. Binary search using recursion.

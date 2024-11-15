@@ -1,0 +1,7 @@
+Solve following problems -- Interview Question discussion
+1. Implement doubly circular list (common operations).
+2. Implement bubble sort for singly linear list.
+3. Find middle element on singly circular list.
+4. Check if given singly linear list is palindrome or not.
+5. Remove duplicate element from sorted singly linear list.
+6. Remove duplicate element from unsorted singly linear list.

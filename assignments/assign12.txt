@@ -1,0 +1,5 @@
+1. Longest common substring problem
+	* https://www.geeksforgeeks.org/longest-common-substring-dp-29/
+2. Minimum cost to fill the bag
+	* https://www.geeksforgeeks.org/minimum-cost-to-fill-given-weight-in-a-bag/
+	

@@ -1,0 +1,8 @@
+Solve following problems.
+1. Implement queue using singly linear linked list. Ensure O(1) time complexity for queue operations.
+2. Implement singly circular list using only tail pointer.
+3. Implement doubly lineear linked list using head & tail pointer.
+4. In singly linear list implement following operations.
+	a. find and delete a node.
+	b. insert a new node after a given node.
+	b. insert a new node before a given node.

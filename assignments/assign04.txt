@@ -1,0 +1,5 @@
+Solve following problems.
+1. Create a stack using queue. Ensure O(1) time complexity for push operation.
+2. Create a queue using stack data structure.
+3. Implement parenthesis balancing using a map/dictionary of opening-closing parenthesis.
+4. Implement "rat in a maze" solution (using backtracking).
